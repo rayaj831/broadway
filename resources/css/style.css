@@ -29,6 +29,10 @@ a {
 	background-image: url("../images/the-flatiron-building.png");
 }
 
+#foot p {
+	font-size: 11px;
+}
+
 #header {
 	text-align: center;
 	background-image: url("../images/the-flatiron-building.png");
@@ -50,4 +54,9 @@ a {
 
 #contact {
 	text-align: center;
+}
+
+#foot {
+	color: white;
+	background-color: dimgray;
 }
